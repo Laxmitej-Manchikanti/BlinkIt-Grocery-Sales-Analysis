@@ -1,4 +1,4 @@
-This project analyzes grocery sales data from BlinkIT to uncover key trends, optimize inventory, and enhance decision-making. Using Power BI, Excel, and Python, we explore sales performance, product demand, and customer behavior through interactive dashboards and data-driven insights.
+This project analyzes grocery sales data containing 8500 rows of data from BlinkIT to uncover key trends, optimize inventory, and enhance decision-making. Using Power BI, Excel, and Python, we explore sales performance, product demand, and customer behavior through interactive dashboards and data-driven insights.
 
 📊 Key Features
 ✅ Sales Performance Analysis – Track revenue trends, top-selling products, and seasonal demand.
@@ -9,7 +9,6 @@ This project analyzes grocery sales data from BlinkIT to uncover key trends, opt
 🛠 Tech Stack
 🔹 Power BI – Dashboard creation and data visualization
 🔹 Excel – Data cleaning and preprocessing
-🔹 Python – Exploratory Data Analysis (EDA)
 
 🚀 Outcomes
 🔹 Improved sales forecasting and business strategy.
